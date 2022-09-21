@@ -1,0 +1,13 @@
+body {
+    background:
+    linear-gradient(
+      rgb(0, 163, 204), 
+      rgb(255, 28, 28)
+    ),
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
